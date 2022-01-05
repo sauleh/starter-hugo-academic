@@ -8,7 +8,7 @@ weight: 20
 title: Biography
 design:
   background:
-    image: etemadi-new.jpg
+    image: ""
     image_darken: 0
 ---
 This is the about part of the page. I'm just testing out this framework.
